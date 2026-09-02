@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#2E7D32">
+
+<title>Trädmästaren</title>
+
+manifest.json
+styles.css
+
+images/icon-192.png
+
+</head>
+<body>
+
+<header>
+<h1>🌳 Trädmästaren 🌲</h1>
+<p>Lär dig Sveriges vanligaste träd</p>
+</header>
+
+<div id="score">Poäng: 0</div>
+ 
+<div class="card">
+
+images/placeholder.jpg
+
+<h2 id="question"></h2>
+
+<div id="answers"></div>
+
+</div>
+
+<button id="nextBtn">Nästa fråga</button>
+
+app.jsscript>
+
+</body>
+</html>
